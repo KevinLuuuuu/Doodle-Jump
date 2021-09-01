@@ -1,6 +1,5 @@
 # Doodle-Jump
 
-# 2020-pd2-doodlejump
 ## Video link
   
 https: 

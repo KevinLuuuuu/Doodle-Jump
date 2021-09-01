@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/Boos.png</file>
+        <file>pic/fireball.png</file>
+        <file>pic/mario.png</file>
+        <file>pic/mario_left.png</file>
+        <file>pic/monster.png</file>
+        <file>pic/platform1.png</file>
+        <file>pic/platform2.png</file>
+        <file>pic/game_over.jpg</file>
+        <file>pic/background.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/start.png</file>
+        <file>pic/spring.png</file>
+        <file>pic/spring-extend.png</file>
+        <file>pic/rocket.png</file>
+        <file>pic/fire-rocket.png</file>
+        <file>pic/black-hole.png</file>
+        <file>pic/venus.png</file>
+        <file>pic/invincible-mario.png</file>
+        <file>pic/star.png</file>
+    </qresource>
+</RCC>

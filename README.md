@@ -1,9 +1,5 @@
 # Doodle-Jump
 
-## Video link
-  
-https: 
-
 <img src="https://i.imgur.com/ilbgJAh.png" alt="alt text" width="300" height="430">
   
 ## How to play

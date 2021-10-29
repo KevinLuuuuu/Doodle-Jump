@@ -7,7 +7,7 @@
 #include <ctime>
 #include <QLabel>
 #include <QTimer>
-
+ 
 using namespace std;
  
 MainWindow::MainWindow(QWidget *parent) :
